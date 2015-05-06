@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C5C5CE6C-4EF0-43B9-BECF-C5F212351DA5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MobileTutsInvaderz</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2D114932BB7E31CAB99683EE9BE9AB69D287A23E</key>
+		<string>https://github.com/jamestutsplus/SpriteKitSwift-SpaceInvaders1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MobileTutsInvaderz.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2D114932BB7E31CAB99683EE9BE9AB69D287A23E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jamestutsplus/SpriteKitSwift-SpaceInvaders1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2D114932BB7E31CAB99683EE9BE9AB69D287A23E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2D114932BB7E31CAB99683EE9BE9AB69D287A23E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpriteKitSwift-SpaceInvaders1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
